@@ -68,6 +68,7 @@ DAX Measures – KPIs & calculated metrics
 Dashboard Design – Interactive visuals, slicers & KPIs
 
 Insight Generation – Patterns, trends & recommendations
+
 💡 Conclusion
 
 This project demonstrates how data analytics and visualization can significantly enhance hospital management by providing actionable insights for optimizing operations, reducing wait times, and improving patient experience.
